@@ -1,6 +1,6 @@
 # CPE010-CPE21S1--Data-Structures-and-Algorithms
 
-#Technological Institute of The Philippines
+##Technological Institute of The Philippines
 
 ## Student Information
 | Category | Details |
