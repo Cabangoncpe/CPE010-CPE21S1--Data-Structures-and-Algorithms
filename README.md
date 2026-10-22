@@ -3,7 +3,6 @@
 | Category | Details |
 |----------|---------|
 |*Name:* |Mike Justin A. Cabangon|
-|*Student ID:* |2513369|
 |*Program:* |Bachelor of Science in Computer Engineering|
 |*Section:* |CPE21S1|
 |*Course:* |CPE 010-Data Structures and Algorithms|
